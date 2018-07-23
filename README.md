@@ -1,5 +1,5 @@
 
-# 创建一个 Tableau 故事
+# 创建 Tableau 故事
 
 ## 概要
 
